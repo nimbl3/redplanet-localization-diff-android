@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# You might need to use 'sudo' to run this file
-# And you might also need to run this command to allow read/write permission: 'chmod -R 777 html_string_diff.sh'
-
 printf "old branch: "
 read old_branch
 printf "new branch: "
